@@ -16,3 +16,10 @@ The objective is to build a simple platform where users can upload and view file
 4. Change permission of a file
 5. View a file
 6. Generate thumbnails for images
+
+Developers experience gained through this project includes:
+1. Creating an API using ExpressJS
+2. Authenticating users
+3. Storing data in MongoDB
+4. Storing temporary data in Redis
+5. Setting up and using background workers for job automation
